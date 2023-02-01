@@ -1,0 +1,138 @@
+
+*{
+    font-family: "Kumbh Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    font-family: "Kumbh Sans", sans-serif; 
+    font-size: 2em;
+    font-weight: bolder;
+    align-items: center;
+    color:  #077931;;
+    
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    padding: 2rem;
+    box-sizing: border-box;
+
+
+     
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: centerZ;
+    padding: 2rem;
+    
+
+}
+table {
+    border-spacing: 10px;
+    box-sizing: border-box;
+    border-style: double;
+    border-color: #077931;
+    height: 360px;
+    width: 320px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #ecf2ee;
+    
+}
+.start{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 0px 5px;
+    font-size: 1em;
+    font-weight: bold;
+    
+    background-color:#ecf2ee;
+    
+    
+
+
+
+}
+a:hover{
+    color: #077931;
+}
+
+a:link{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+
+.survey{
+    margin: 2rem;
+    padding: 2rem;
+    
+
+
+    
+
+}
+p{
+    font-size: large;
+    padding: 10px;
+    font-weight: bold;
+}
+input{
+     font-size: 18px;
+     margin: 0 10px;
+     margin-top:  10px;
+     margin-bottom: 10px;
+
+}
+label{
+    font-size: 18px;
+    
+}
+.all{
+    
+    list-style: none;
+    margin-top: -20px;
+    padding: 0;
+    text-align: left;
+    
+}
+.page-2{
+    box-sizing: border-box;
+    border-style: double;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 2rem;
+    display: flex;
+    background-color: #ecf2ee;
+    height: 200%;
+
+}
+.finish{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 0px 5px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ecf2ee;
+}
+.finish:hover{
+    color: #077931;
+}
+.main{
+    font-size: 2em;
+    margin: 10px;
+    padding: 10px;
+    color: #077931;
+    text-align: center;
+}
+   
